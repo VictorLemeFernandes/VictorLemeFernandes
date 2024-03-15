@@ -1,3 +1,5 @@
+# I doesn’t matter if you know “how”, if you don’t know “why”.
+
 ## Hi there 👋
 ### My name is Victor Leme
 - 📚 I'm a Computer Science student at UFU (Federal University of Uberlandia) in Brazil
