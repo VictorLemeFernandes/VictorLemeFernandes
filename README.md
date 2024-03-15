@@ -1,11 +1,9 @@
 # It doesn’t matter if you know “how”, if you don’t know “why”.
-
-## Hi there 👋
-### My name is Victor Leme
+### Hi there 👋 my name is Victor Leme
 - 📚 I'm a Computer Science student at UFU (Federal University of Uberlandia) in Brazil
-  
+
   ##
- 
+  
 <div>
   <a href="https://github.com/VictorLemeFernandes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLemeFernandes&layout=compact&langs_count=7&theme=dracula"/>
