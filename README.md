@@ -1,4 +1,4 @@
-# I doesn’t matter if you know “how”, if you don’t know “why”.
+# It doesn’t matter if you know “how”, if you don’t know “why”.
 
 ## Hi there 👋
 ### My name is Victor Leme
