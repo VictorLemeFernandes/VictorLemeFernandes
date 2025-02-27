@@ -9,4 +9,5 @@
 
 Contact:
 [Linkedin](https://www.linkedin.com/in/victorlemefernandes/)
+
 E-mail: victorlemefernandes@gmail.com
